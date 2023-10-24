@@ -16,7 +16,7 @@ summary=st.write("Welcome to the Wine Quality Evaluator! 🍷📊"
                  "Utilizing a Kaggle dataset, this app simplifies the process of assessing wine quality. "
                  "Just input your wine's key characteristics, and we'll provide an insightful analysis. "
                  "While we can't predict the exact accuracy, we're here to make your wine experience more enjoyable and informed. Cheers! 🍇"
-                  "Access the application's code on my GitHub page [here](https://github.com/zaferErbil/WineTaste")
+                  "Access the application's code on my GitHub page [here] (https://github.com/zaferErbil/WineTaste")
 
 
 fixaci=st.slider("Select Fixed Acid Value: ", min_value=4.6,max_value=15.9,value=5.0,step=0.1)
