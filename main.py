@@ -11,11 +11,12 @@ df=pd.read_csv("winequality-red.csv")
 df=df.dropna()
 df=df[["fixed acidity","citric acid","volatile acidity","chlorides","sulphates","quality"]]
 ttle=st.title("Welcome to Wine Quality Test")
-summary=st.write(
-"Hello, this application has been created based on a dataset available on Kaggle for measuring wine quality. "
-"The accuracy is unknown. Developed using the Python language, "
-"the purpose of this application is to help you determine the quality of your "
-"wine by entering various data points in a simple manner.")
+summary=st.write("Welcome to the Wine Quality Evaluator! 🍷📊"
+                 "Discover the true quality of your wine with our Python-based application. "
+                 "Utilizing a Kaggle dataset, this app simplifies the process of assessing wine quality. "
+                 "Just input your wine's key characteristics, and we'll provide an insightful analysis. "
+                 "While we can't predict the exact accuracy, we're here to make your wine experience more enjoyable and informed. Cheers! 🍇"
+,st.write("Access my application codes [here](https://github.com/zaferErbil/WineTaste).")
 
 
 fixaci=st.slider("Select Fixed Acid Value: ", min_value=4.6,max_value=15.9,value=5.0,step=0.1)
