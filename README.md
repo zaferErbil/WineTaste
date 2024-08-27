@@ -1,6 +1,6 @@
 Wine Quality Prediction App                                                                                        
 Welcome to the Wine Quality Prediction App! 🍷
-[Wine Quality Prediction App](https://winetaste.streamlit.app/)
+
 
 Project Overview
 This project is designed to predict the quality of wine based on a machine learning model trained using a dataset published on Kaggle. The purpose of this application is to allow users to input specific characteristics of their wine and receive an estimated quality rating.
@@ -11,7 +11,7 @@ Streamlit: A web application framework used to create an interactive user interf
 Scikit-learn: A machine learning library used to build and train the model for wine quality prediction.
 
 How to Use
-Users can easily use the application by visiting the following link: Wine Quality Prediction App.
+Users can easily use the application by visiting the following link: [Wine Quality Prediction App](https://winetaste.streamlit.app/).
 Access the web application through the provided link.
 Input the required wine characteristics, which are based on the dataset parameters from Kaggle.
 Once you have made your selections, the app will predict the quality of your wine.
@@ -32,7 +32,7 @@ This application may not have the accuracy to measure the true quality of your w
 
 Şarap Kalitesi Tahmin Uygulaması
 Şarap Kalitesi Tahmin Uygulamasına hoş geldiniz! 🍷
-[Şarap Kalitesi Tahmin Uygulaması](https://winetaste.streamlit.app/)
+
 
 Proje Hakkında
 Bu proje, Kaggle'da yayınlanmış bir veri seti kullanılarak eğitilmiş bir makine öğrenimi modeli ile şarap kalitesini tahmin etmek için tasarlanmıştır. Bu uygulamanın amacı, kullanıcıların şaraplarının belirli özelliklerini girerek tahmini bir kalite derecelendirmesi almalarını sağlamaktır.
@@ -44,7 +44,7 @@ Scikit-learn: Şarap kalitesi tahmini için modelin oluşturulması ve eğitilme
 
 
 Nasıl Kullanılır
-Kullanıcılar, aşağıdaki bağlantıya giderek uygulamayı kolayca kullanabilirler: Şarap Kalitesi Tahmin Uygulaması.
+Kullanıcılar, aşağıdaki bağlantıya giderek uygulamayı kolayca kullanabilirler: [Şarap Kalitesi Tahmin Uygulaması](https://winetaste.streamlit.app/).
 Verilen bağlantı üzerinden web uygulamasına erişin.
 Kaggle veri seti parametrelerine dayalı olarak gerekli şarap özelliklerini girin.
 Seçimlerinizi tamamladıktan sonra, uygulama şarabınızın kalitesini tahmin edecektir.
